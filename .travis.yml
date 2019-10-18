@@ -1,2 +1,2 @@
- scpypt :
+ script :
   - pytest
