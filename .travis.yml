@@ -1,4 +1,2 @@
-language : 
-  - python
  scpypt :
   - pytest
